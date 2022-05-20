@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.pbix
+*.csv
+*.png
+*.json
+*.xlsx
+*.rdl

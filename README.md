@@ -6,6 +6,9 @@
 
 [Kanban Board](https://trello.com/b/adgvaQzY/powebi-project)
 
+[Finished Dashboard](https://app.powerbi.com/groups/973d6ede-37af-4eee-8fcd-2595a6f3be36/reports/d2da1d1a-a9c4-43d9-b4a9-f42ff533de2b/ReportSection)
+
+[Finished Report](https://app.powerbi.com/groups/973d6ede-37af-4eee-8fcd-2595a6f3be36/rdlreports/007fe489-b367-4483-aafe-1da18f079999)
 ## About the project
 
 ![about](about.png)
